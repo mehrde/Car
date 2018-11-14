@@ -1,7 +1,7 @@
-package Car;
+package com.mehrde.Car;
 
 /**
- * Created by mehrce on 11/9/2018.
+ * Created by mehrde on 11/9/2018.
  */
 public class CarWash {
 
